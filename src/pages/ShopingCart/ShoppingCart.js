@@ -10,7 +10,7 @@ const ShoppingCart = (props) => {
                     <div className="card shopping-cart">
                         <div className="card-header bg-dark text-light">
                             <i className="fa fa-shopping-cart pr-2" aria-hidden="true"></i>
-                            Shipping cart
+                            Shopping cart
                             <div className="clearfix"></div>
                         </div>
                         <div className="card-body">

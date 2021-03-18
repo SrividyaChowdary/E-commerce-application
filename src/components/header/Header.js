@@ -7,7 +7,7 @@ const Header = ({cartLength}) => {
     return (
         <nav className="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
             <div className="container">
-                <NavLink className="navbar-brand" to="/">Altimetrik Assesment</NavLink>
+                <NavLink className="navbar-brand" to="/">E-Commerce Application</NavLink>
                 <div>
                     <ul className="navbar-nav ml-auto">
                         <li className="nav-item">
