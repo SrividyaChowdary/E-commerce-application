@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/SrividyaChowdary/E-commerce-application/static/css/main.494f432f.chunk.css",
+    "main.js": "/SrividyaChowdary/E-commerce-application/static/js/main.758283d9.chunk.js",
+    "main.js.map": "/SrividyaChowdary/E-commerce-application/static/js/main.758283d9.chunk.js.map",
+    "runtime-main.js": "/SrividyaChowdary/E-commerce-application/static/js/runtime-main.f0738fb3.js",
+    "runtime-main.js.map": "/SrividyaChowdary/E-commerce-application/static/js/runtime-main.f0738fb3.js.map",
+    "static/js/2.11d69690.chunk.js": "/SrividyaChowdary/E-commerce-application/static/js/2.11d69690.chunk.js",
+    "static/js/2.11d69690.chunk.js.map": "/SrividyaChowdary/E-commerce-application/static/js/2.11d69690.chunk.js.map",
+    "index.html": "/SrividyaChowdary/E-commerce-application/index.html",
+    "precache-manifest.b9d191421ca9ba80644b56ffcc8e6ae8.js": "/SrividyaChowdary/E-commerce-application/precache-manifest.b9d191421ca9ba80644b56ffcc8e6ae8.js",
+    "service-worker.js": "/SrividyaChowdary/E-commerce-application/service-worker.js",
+    "static/css/main.494f432f.chunk.css.map": "/SrividyaChowdary/E-commerce-application/static/css/main.494f432f.chunk.css.map",
+    "static/js/2.11d69690.chunk.js.LICENSE.txt": "/SrividyaChowdary/E-commerce-application/static/js/2.11d69690.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f0738fb3.js",
+    "static/js/2.11d69690.chunk.js",
+    "static/css/main.494f432f.chunk.css",
+    "static/js/main.758283d9.chunk.js"
+  ]
+}
